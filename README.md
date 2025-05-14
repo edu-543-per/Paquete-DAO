@@ -1,2 +1,3 @@
-# Paquete-DAO
-Proyecto de Paquete DAO y base de datos.
+# Proyecto DAO - Spring Boot
+
+Documentación del proyecto.
